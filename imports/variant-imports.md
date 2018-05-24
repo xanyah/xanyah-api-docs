@@ -13,7 +13,7 @@ Each file must have a specific format in order to be well processed. To do so, w
 ### Required data
 
 * `product_name` 
-* \`product\_category\`
+* `product_category` 
 * `product_manufacturer` 
 * `product_store` 
 * `variant_original_barcode` 
