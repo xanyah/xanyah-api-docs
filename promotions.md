@@ -11,8 +11,8 @@ The promotion object contains 2 fields:
 
 They are 2 types of promotions:
 
-* flat\_discount: Remove the amount from the price \(a 20€ article with a 2 flat discount will be at 18€\)
-* percent\_discount: Remove a percentage from the price \(a 20€ articles with a 10 discount will be at 18€\)
+* `flat_discount` : Remove the amount from the price \(a 20€ article with a 2 flat discount will be at 18€\)
+* `percent_discount` : Remove a percentage from the price \(a 20€ articles with a 10 discount will be at 18€\)
 
 
 
