@@ -12,15 +12,15 @@ Each file must have a specific format in order to be well processed. To do so, w
 
 ### Required data
 
-* product\_name
-* product\_category
-* product\_manufacturer
-* product\_store
-* variant\_original\_barcode
-* variant\_buying\_price
-* variant\_tax\_free\_price
-* variant\_provider
-* variant\_ratio
+* `product_name` 
+* \`product\_category\`
+* `product_manufacturer` 
+* `product_store` 
+* `variant_original_barcode` 
+* `variant_buying_price` 
+* `variant_tax_free_price` 
+* `variant_provider` 
+* `variant_ratio` 
 
 ### CSV
 
